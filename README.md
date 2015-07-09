@@ -15,6 +15,7 @@ GitHubのテスト
 * リスト3
 
 リストパターン2
+
 1. 順番つきリスト
 2. 順番つきリスト
 3. 順番つきリスト
@@ -22,12 +23,16 @@ GitHubのテスト
 引用
 > 引用文です。うまいくかな？
 
-リンク
+* * *
+
+##リンク
 自動リンク
-<http://style-type.net></http://style-type.net>
+  <http://style-type.net>
 
 通常リンク
+
 [ココをクリック](http://style-type.net)
 
 外部リンク
-[Blog]:http://style-type.net "ココをクリック"
+
+[Blog]: http://style-type.net "ココをクリック"
