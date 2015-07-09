@@ -1,2 +1,6 @@
 # test
 GitHubのテスト
+
+##メンバー
+
+*testmember
